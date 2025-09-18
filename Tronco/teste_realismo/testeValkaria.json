@@ -1,0 +1,199 @@
+[
+    {
+        "enunciado": "Qual o apex do servidor?",
+        "alternativas": {
+            "a": "Rex",
+            "b": "Anky",
+            "c": "Trike",
+            "d": "Todos acima"
+        },
+        "resposta": "a"
+    },
+    {
+        "enunciado": "O Gallimimus defende seu filhote quando atacado?",
+        "alternativas": {
+            "a": "Sim",
+            "b": "Não",
+            "c": "Só se ele sentir vontade" 
+        },
+        "resposta": "b"
+   },
+    {
+        "enunciado": "O Rex pode ter quantos filhotes?",
+        "alternativas": {
+            "a": "Quantos ele quiser",
+            "b": "Pode ter 4 filhotes",
+            "c": "Pode ter 1 filhote" 
+        },
+        "resposta": "b"
+},
+    {
+        "enunciado": "O Ankylosaurus possui qual Comportamento?",
+        "alternativas": {
+          "a": "Territorial",
+            "b": "Agressivo",
+            "c": "Neutro",
+            "d": "Medroso"
+        },
+        "resposta": "c"
+},
+    {
+        "enunciado": "O Triceratops pode ter ninhos e filhotes em qual momento?",
+        "alternativas": {
+          "a": "Outono",
+            "b": "Inverno",
+            "c": "Verão",
+            "d": "Primavera"
+        },
+        "resposta": "d"
+},
+    {
+        "enunciado": "Um bando de 6 Velociraptor pode caçar quais animais abaixo?",
+        "alternativas": {
+          "a": "Casal de Rex",
+            "b": "Triceratops",
+            "c": "Casal de Anky",
+            "d": "Rex Solitário"
+        },
+        "resposta": "c"
+},
+    {
+        "enunciado": "O Triceratops possui qual comportamento?",
+        "alternativas": {
+          "a": "Territorial",
+            "b": "Agressivo",
+            "c": "Passivo",
+            "d": "Medroso"
+        },
+        "resposta": "b"
+},
+    {
+        "enunciado": "Você está sozinho de Velociraptor e avista um filhote de Ankylosaurus junto de sua manada e um Gallimimus solitário, qual deles você pode caçar?",
+        "alternativas": {
+          "a": "O filhote de Ankylosaurus",
+            "b": "A manada inteira",
+            "c": "O Gallimimus",
+            "d": "Nenhum"
+        },
+        "resposta": "c"
+},
+    {
+        "enunciado": "Você está de Gallimimus com seu bando durante o Inverno e aparece um filhote de Gallimimus pedindo grupo, o que você faz?",
+        "alternativas": {
+          "a": "Ignoro, não posso aceitar filhotes fora da época de reprodução",
+            "b": "Aceito no grupo",
+            "c": "Mato o filhote e como"
+        },
+        "resposta": "a"
+},
+    {
+        "enunciado": "Você está de Rex adulto caçando um Ankylo solitário e ele resolve pular na água, qual sua reação?",
+        "alternativas": {
+          "a": "Pular na água atrás dele",
+            "b": "Denunciar por tentar fazer safe-zone na água",
+            "c": "Matar ele por ter quebrado regra",
+            "d": "Chamar um Admin"
+        },
+        "resposta": "a"
+},
+    {
+        "enunciado": "Ao nascer você precisa esperar quanto tempo para caçar?",
+        "alternativas": {
+          "a": "5 Segundos",
+            "b": "10 Segundos",
+            "c": "Até a proteção sumir",
+            "d": "Não preciso esperar"
+        },
+        "resposta": "c"
+},
+    {
+        "enunciado": "Você está de Velociraptor adulto com 35% de fome e avista um Ankylosaurus adulto ferido, o que você faz?",
+        "alternativas": {
+          "a": "Entro em posição de bote e começo a caçada",
+            "b": "Pergunto para ele onde tem carcaça",
+            "c": "Revelo a localização dele para um Rex e me alimento das sobras depois que ele morrer",
+            "d": "Ignoro e procuro alimento"
+        },
+        "resposta": "d"
+},
+    {
+        "enunciado": "Você está em um bando de Velociraptor caçando um Ankylosaurus, mas um dos raptor acaba morrendo, o que vocês fazem?",
+        "alternativas": {
+          "a": "Paro a caçada e me alimento do corpo do meu companheiro",
+            "b": "Continuo atacando o Ankylosaurus até ele morrer",
+            "c": "Paro o ataque e procuro alguma presa mais fácil",
+            "d": "Vou me alimentor e deixo o resto do bando atacando o Ankylosaurus"
+        },
+        "resposta": "a"
+},
+    {
+        "enunciado": "Quando é considerado fome extrema?",
+        "alternativas": {
+          "a": "Com 50% de fome",
+            "b": "Com 30% de fome",
+            "c": "Com 70% de fome",
+            "d": "com 35% de fome"
+        },
+        "resposta": "b"
+},
+    {
+        "enunciado": "Em que momento um carnívoro pode matar alguém do próprio grupo?",
+        "alternativas": {
+          "a": "Quando sentir fome",
+            "b": "Quando ele atrapalhar a caçada",
+            "c": "Com extrema fome",
+            "d": "Quando sentir vontade"
+        },
+        "resposta": "c"
+},
+    {
+        "enunciado": "Você está de Rex e um amigo seu do discord está de Velociraptor e pede sua ajuda para atravessar o rio. O que você faz?",
+        "alternativas": {
+          "a": "Deixo ele grudar em mim e atravesso",
+            "b": "Pego ele na boca e atravesso",
+            "c": "Ignoro, nem podemos estar perto um do outro",
+            "d": "Falo para ele pedir para outra pessoa"
+        },
+        "resposta": "c"
+},
+    {
+        "enunciado": "Qual das estações abaixo NÃO existe no realismo?",
+        "alternativas": {
+          "a": "Inverno",
+            "b": "Primavera",
+            "c": "Outono",
+            "d": "Tempestade"
+        },
+        "resposta": "d"
+},
+    {
+        "enunciado": "Um Ankylosaurus filhote é considerado qual Tier?",
+        "alternativas": {
+          "a": "Tier 3",
+            "b": "Tier 5",
+            "c": "Tier 4",
+            "d": "Tier 2"
+        },
+        "resposta": "a"
+},
+    {
+        "enunciado": "Quantos Velociraptor podem em um grupo?",
+        "alternativas": {
+          "a": "10 Raptor",
+            "b": "Casal com 3 filhote",
+            "c": "8 Raptor",
+            "d": "9 Raptor"
+        },
+        "resposta": "c"
+},
+    {
+        "enunciado": "Quantos Triceratops podem em um grupo?",
+        "alternativas": {
+          "a": "2 Triceratops",
+            "b": "Casal com 2 Filhotes",
+            "c": "Infinito",
+            "d": "5 Triceratops"
+        },
+        "resposta": "c"
+    }
+]

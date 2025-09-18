@@ -1,0 +1,200 @@
+[
+    {
+        "enunciado": "Qual a lista de apex do servidor?",
+        "alternativas": {
+            "a": "Hiena, Mabeco e Crocodilo",
+            "b": "Leão, Rinoceronte e Elefante",
+            "c": "Rinoceronte, Girafa e Mabeco",
+            "d": "Crocodilo, Leão e Leopardo"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "O Impala defende seu filhote de qual animal?",
+        "alternativas": {
+            "a": "Mabeco e Babuíno",
+            "b": "Mabeco, Babuino e Leopardo",
+            "c": "Leão e Leopardo",
+            "d": "Nenhum",
+            "e": "Todos"
+        },
+        "resposta": "a"
+    },
+    {
+        "enunciado": "Girafas machos defendem seu grupo?",
+        "alternativas": {
+            "a": "Defendem apenas as fêmeas",
+            "b": "Defendem os filhotes",
+            "c": "Defendem apenas outros machos",
+            "d": "Não defendem ninguém",
+            "e": "Defendem todos"
+        },
+        "resposta": "d"
+    },
+    {
+        "enunciado": "Qual o máximo de Leões Machos podem em uma alcateia?",
+        "alternativas": {
+            "a": "1 Macho",
+            "b": "2 Machos",
+            "c": "3 Machos",
+            "d": "4 Machos",
+            "e": "Quantos machos quiserem"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Um Leopardo adulto Solitário pode caçar quais presas abaixo?",
+        "alternativas": {
+            "a": "Impala",
+            "b": "Búfalo",
+            "c": "Girafa Filhote",
+            "d": "Avestruz",
+            "e": "Zebra"
+        },
+        "resposta": "a"
+    },
+    {
+        "enunciado": "Qual animal abaixo NÃO PODE atacar na água?",
+        "alternativas": {
+            "a": "Girafa",
+            "b": "Hipopótamo",
+            "c": "Avestruz",
+            "d": "Elefante",
+            "e": "Mabeco",
+            "f": "Zebra"
+        },
+        "resposta": "a"
+    },
+    {
+        "enunciado": "Você está de Babuíno, um animal de Tier 2 e é atacado por um Leão que é Tier 4, você se defende?",
+        "alternativas": {
+            "a": "Fujo, o leão é grande demais para mim",
+            "b": "Me defendo, sou mais agressivo",
+            "c": "Tiro print e denuncio por ele ter matado um animal frágil demais"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Você em um grupo com 5 leões, 1 macho, 3 fêmeas e 1 filhote, e avistam uma Girafa adulta ao longe. Vocês podem caçá-la?",
+        "alternativas": {
+            "a": "Não",
+            "b": "Sim"
+        },
+        "resposta": "a"
+    },
+    {
+        "enunciado": "Você é o líder de um bando de Zebras e uma de suas fêmeas está sendo atacada por uma Leoa. O que você faz?",
+        "alternativas": {
+            "a": "Fujo. Antes ela do que eu",
+            "b": "Começo a atacar a fêmea para a Leoa matar ela com mais facilidade",
+            "c": "Ordeno que o resto do bando ataque a Leoa ao mesmo tempo",
+            "d": "Fico para trás e a defendo, sendo uma possível alvo"
+        },
+        "resposta": "d"
+    },
+    {
+        "enunciado": "Você está de Crocodilo na margem da água depois de ter comido uma Zebra inteira e estar sem fome, mas avista um Búfalo atravessando a água. O que você faz?",
+        "alternativas": {
+            "a": "Entro na água e vou na direção dele ataca-lo, afinal a água é toda minha",
+            "b": "Fico deitado, não estou com fome",
+            "c": "Entro na água e agarro ele na boca, e ajudo ele a atravessar com mais facilidade",
+            "d": "Entro na água e começo a ameaçar para que ele saia o mais rapidamente do meu território"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Você está de Leopardo e com 35% de Fome e avista uma Zebra adulta correndo. O que você faz?",
+        "alternativas": {
+            "a": "Entro em posição de bote e começo a caçada para conseguir me alimentar o quanto antes",
+            "b": "Ignoro, não posso caçar ela",
+            "c": "Pergunto a ela onde tem carcaça"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Você é um Leão macho com fome e avista ao longe uma leoa com pouquíssima vida, prestes a morrer, e uma Zebra adulta totalmente saudável. O que você faz?",
+        "alternativas": {
+            "a": "Convido ela para o meu grupo para caçarmos a Zebra junto",
+            "b": "Mato ela e como seu corpo para não morrer de fome"
+        },
+        "resposta": "a"
+    },
+    {
+        "enunciado": "Está de noite no jogo, e você é um Impala totalmente Saudável, sem fome ou sede, mas está com vontade de andar para outra área do mapa. O que você faz?",
+        "alternativas": {
+            "a": "Eu me levanto e corro até a área que desejo ir",
+            "b": "Fico deitado, levantando apenas para comer e beber água, afinal, está de noite",
+            "c": "Fico rodando em círculos até amanhecer e eu poder andar novamente"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Qual Comportamento é responsável por ser muito Agressivo e não formar territórios?",
+        "alternativas": {
+            "a": "Agressivo",
+            "b": "Neutro",
+            "c": "Territorial",
+            "d": "Nômade",
+            "e": "Oportunista"
+        },
+        "resposta": "d"
+    },
+    {
+        "enunciado": "Você está de Hipopótamo em seu território, até que avista um Crocodilo na água. Qual sua primeira reação?",
+        "alternativas": {
+            "a": "Atacar, afinal ele está no meu território",
+            "b": "Ignorar, nossas espécies dividem o mesmo espaço",
+            "c": "Abandonar meu território e deixar a água para ele, enquanto eu fico na terra"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Em qual área do mapa o Leão pode formar Território?",
+        "alternativas": {
+            "a": "Floresta de Nyala, Roca do Orgulho, Cataratas de Simba",
+            "b": "Inclinação do Rio, Canion Tshukudu e Miragem",
+            "c": "Apenas a Roca do Orgulho",
+            "d": "Nenhuma acima",
+            "e": "Todas, menos Roca do Orgulho e Pântano dos Hipopótamos"
+        },
+        "resposta": "e"
+    },
+    {
+        "enunciado": "Você está de Impala e participando de uma Mini manada ao lado de outras espécies, com qual das espécies abaixo, você não pode formar 'grupo'?",
+        "alternativas": {
+            "a": "Avestruz",
+            "b": "Girafa",
+            "c": "Babuíno",
+            "d": "Búfalo",
+            "e": "Zebra"
+        },
+        "resposta": "d"
+    },
+    {
+        "enunciado": "Você é um Mabeco com um filhote que não é seu, e está com 15% de fome. O que você faz?",
+        "alternativas": {
+            "a": "Mato o filhote que não é meu, e como",
+            "b": "Tento achar algo para caçar"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Você está de Elefante solitário e uma alcateia de leões começa a se aproximar e correr muito próximo de ti. O que você faz?",
+        "alternativas": {
+            "a": "Ataco e mato todos eles com muita rapidez, sou extremamente agressivo",
+            "b": "Ameaço, se persistirem, eu ataco para deixar claro a minha força",
+            "c": "Fujo, eles são muitos e eu estou solitário",
+            "d": "Ignoro, eles são fracos demais"
+        },
+        "resposta": "b"
+    },
+    {
+        "enunciado": "Você está de Avestruz e um bando de 3 Mabecos começa a te caçar. O que você faz?",
+        "alternativas": {
+            "a": "Fujo, eles não são capazes de ultrapassar minha velocidade",
+            "b": "Fico e revido, meu chute é muito forte e pode vencê-los com facilidade",
+            "c": "Denuncio, 3 Mabecos não podem atacar Avestruz"
+        },
+        "resposta": "a"
+    }
+]
