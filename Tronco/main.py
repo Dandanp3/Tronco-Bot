@@ -30,4 +30,4 @@ class Tronco(commands.Bot):
 
 if __name__ == "__main__":
     bot = Tronco()
-    bot.run("MTM4OTI2ODg0OTM5NjAyNzQ5Mw.G7tMCO.eYmVWfy7JxnRIaAIH_ByKM0zGR3hfTKu6KH5pU")
+    bot.run("TOKEN")
